@@ -4,7 +4,10 @@
 
 ## How to clone repo
 
-``` git clone https://github.com/ashif1198/Cprogram.git ```
+```
+git clone https://github.com/ashif1198/Cprogram.git 
+cd Cprogram
+```
 
 ## How to add to repo
 
